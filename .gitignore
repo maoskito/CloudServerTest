@@ -1,0 +1,11 @@
+*.xlsx
+*.docx
+*.pyc
+*.log
+.idea/
+sensitive/
+cloudy_protocol_pb2.py
+cloud_message_no.py
+cloud_message.py
+test.py
+*.ini
